@@ -35,20 +35,11 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/lucassiqueira08" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucassiqueira08-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/lucassiqueira08" target="_blank">
+<!-- <a href="https://twitter.com/lucassiqueira08" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucassiqueira08-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/lucassiqueira08" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucassiqueira08-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/lucassiqueira08" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucassiqueira08-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/lucassiqueira08" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucassiqueira08-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a> -->
+<a href="https://linkedin.com/in/lucas-siqueira08" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lucas-siqueira08-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
