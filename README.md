@@ -8,10 +8,12 @@
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-
+<span>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)&nbsp;
+</span>
+
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
