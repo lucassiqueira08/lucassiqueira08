@@ -33,10 +33,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <span align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=lucassiqueira08&show_icons=true&theme=vision-friendly-dark" alt="lucassiqueira08's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucassiqueira08&show_icons=true&theme=vision-friendly-dark" alt="lucassiqueira08's stats"/>
 </span>
 <span align="right">
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassiqueira08&layout=compact&theme=vision-friendly-dark" alt="lucassiqueira08's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassiqueira08&layout=compact&theme=vision-friendly-dark" alt="lucassiqueira08's most languages"/>
 </span>
 
 <br><br>
