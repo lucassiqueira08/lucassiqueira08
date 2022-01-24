@@ -42,6 +42,3 @@
   <img align="center" src="https://img.shields.io/badge/-lucassiqueira08-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=lucassiqueira08&layout=wide&show_reply=off&show_retweet=off" />
-
