@@ -34,6 +34,8 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucassiqueira08&show_icons=true&theme=vision-friendly-dark" alt="lucassiqueira08's stats"/>
+</p>
+<p align="right">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassiqueira08&layout=compact&theme=vision-friendly-dark" alt="lucassiqueira08's most languages"/>
 </p>
 
