@@ -15,7 +15,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs)&nbsp;
-![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
