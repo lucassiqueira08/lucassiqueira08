@@ -24,16 +24,16 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
 
-<br><br>
+<!-- <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<!-- <span align="left">
+<span align="left">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=lucassiqueira08&show_icons=true&theme=vision-friendly-dark" alt="lucassiqueira08's stats"/>
-</span> -->
+</span>
 <span align="right">
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassiqueira08&layout=compact&theme=vision-friendly-dark" alt="lucassiqueira08's most languages"/>
-</span>
+</span> -->
 
 <br><br>
 
