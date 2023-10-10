@@ -1,48 +1,24 @@
-<h1 align="left">Hi, I'm Lucas Siqueira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassiqueira08&color=yellow" alt="Profile views" /> </p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Siqueira
+======================================================================================================================================
 
-- 🔥 Full Stack Web Developer 
+Full stack Developer
+--------------------
 
-- 🔭 I’m currently working at [Pagar.me](https://github.com/pagarme)
+I've got a genuine passion for creating digital experiences, and I've even had the chance to lead some awesome developer teams. For the past five years, I've been deep in the world of software development, picking up a bunch of skills and working on some pretty cool projects.
 
-<br><br>
+* 🌍  I'm based in São Paulo, Brazil
+* 🖥️  See my portfolio at [personal-universe](http://personal-universe.vercel.app/)
+* ✉️  You can contact me at [lucassiqueira.dev@gmail.com](mailto:lucassiqueira.dev@gmail.com)
+* 🧠  I'm learning NextJs
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  Ask me about everything that you want
 
-## 🛠 &nbsp;Tech Stack
+### Skills
 
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
+### Socials
 
-<!-- <br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<span align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=lucassiqueira08&show_icons=true&theme=vision-friendly-dark" alt="lucassiqueira08's stats"/>
-</span>
-<span align="right">
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassiqueira08&layout=compact&theme=vision-friendly-dark" alt="lucassiqueira08's most languages"/>
-</span> -->
-
-<br><br>
-
-## 👨🏽‍🦲 &nbsp;Social links
-
-<div>
-<!--   <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<!--   <a href="https://instagram.com/_lucassiqueira8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!--   <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:lucassiqueira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/lucas-siqueira08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align="left"> <a href="https://www.github.com/lucassiqueira08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lucassiqueira08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
